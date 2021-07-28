@@ -17,3 +17,4 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 <b>Explanation</b>: In this case, no transactions are done and the max profit = 0.
 
 ## Algorithm
+![](https://github.com/akshatprogrammer/Buy-and-Sell-Stocks-Leetcode/blob/main/algo.jpg)
